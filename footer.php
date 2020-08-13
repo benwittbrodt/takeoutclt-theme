@@ -15,11 +15,15 @@
               margin-right: 5px;
             }
           </style>
-          <p><a href="https://www.benwittbrodt.com" class= "site-footer__link">Built by: Ben Wittbrodt</a></p>
+          <p>Built by: </p>
+          <p><a href="https://www.benwittbrodt.com" class= "site-footer__link">Ben Wittbrodt</a></p>
           <a href="https://www.facebook.com/benwittbrodt" class="site-footer__link icon"><i class="fa fa-facebook" aria-hidden="true"></i></a>
           <a href="https://www.instagram.com/benwittbrodt/" target="_blank" class="site-footer__link icon"><i class="fa fa-instagram" aria-hidden="true"></i>
           <a href="https://www.linkedin.com/in/benwittbrodt/" class="site-footer__link icon"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           <a href="https://www.twitter.com/btwittbrodt" class="site-footer__link icon"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+          <p><a href="https://www.mattwittbrodt.com" class= "site-footer__link">Matt Wittbrodt</a></p>
+          <a href="https://www.linkedin.com/in/matt-wittbrodt-b4a91a78/" class="site-footer__link icon"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+          <a href="https://twitter.com/mattwittbrodt" class="site-footer__link icon"><i class="fa fa-twitter" aria-hidden="true"></i></a>
         </div>
 
         <div class="site-footer__col-two-three-group">
